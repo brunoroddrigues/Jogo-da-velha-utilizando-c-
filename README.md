@@ -1,3 +1,4 @@
+
 # Jogo da Velha
 
 Este projeto é um simples **Jogo da Velha implementado em **C#** para ser jogado no console. Ele permite que dois jogadores joguem alternadamente, onde o jogador 1 utiliza o símbolo **X** e o jogador 2 utiliza o símbolo **O**.
@@ -21,4 +22,4 @@ Este projeto é um simples **Jogo da Velha implementado em **C#** para ser jogad
 - **C#**: Linguagem de programação usada para a implementação do jogo.
 
 
-
+#Aluno: Bruno Aparecido Rodrigues
